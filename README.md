@@ -19,6 +19,6 @@ Simple Apex class to provide a Flow action to retrieve the RecordType developer 
 4. Configure the Action step to pass in a record id for input and setup an output variable (Text) for the response. Here is example screenshot
 
 ![alt text](/FlowRecordTypeUtils-1.png "Sample Image")
-<img src="/images/youtube.png" alt="Youtube" height="500"/>
+<img src="/FlowRecordTypeUtils-1.png" alt="Configuration" height="500"/>
 
 5. That's it! You can now use that output variable for decision logic within the flow.
