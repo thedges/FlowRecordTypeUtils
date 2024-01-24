@@ -20,4 +20,4 @@ Simple Apex class to provide a Flow action to retrieve the RecordType developer 
 
 5. That's it! You can now use that output variable for decision logic within the flow.
 
-![alt text](https://github.com/thedges/FlowRecordTypeUtils/blob/master/FlowRecordTypeUtils-1.png "Sample Image")
+![alt text](https://github.com/thedges/FlowRecordTypeUtils/blob/main/FlowRecordTypeUtils-1.png "Sample Image")
