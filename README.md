@@ -18,6 +18,6 @@ Simple Apex class to provide a Flow action to retrieve the RecordType developer 
 
 4. Configure the Action step to pass in a record id for input and setup an output variable (Text) for the response. Here is example screenshot
 
-5. That's it! You can now use that output variable for decision logic within the flow.
-
 ![alt text](https://github.com/thedges/FlowRecordTypeUtils/blob/main/FlowRecordTypeUtils-1.png "Sample Image")
+
+5. That's it! You can now use that output variable for decision logic within the flow.
