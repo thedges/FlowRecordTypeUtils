@@ -4,7 +4,7 @@ THIS SOFTWARE IS COVERED BY [THIS DISCLAIMER](https://raw.githubusercontent.com/
 
 Simple Apex class to provide a Flow action to retrieve the RecordType developer name for a given record id.
 
-Installation 
+##Installation 
 1. Install the package per this link
 
 <a href="https://githubsfdeploy.herokuapp.com">
