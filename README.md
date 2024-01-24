@@ -16,7 +16,7 @@ Simple Apex class to provide a Flow action to retrieve the RecordType developer 
    
 3. Drag an Action step on your flow and search for "Get Record Type Name (apex-FlowRecordTypeUtils)"
 
-4. Configure the Action step to pass in a record id for input and setup an output variable (Text) for the response. Here is example screenshot which uses the {!$Record.Id} input variable for a Record-Triggered Flow
+4. Configure the "Get Record Type Name" Action step to pass in a record id for input and setup an output variable (Text) for the response. Here is example screenshot which uses the {!$Record.Id} input variable for a Record-Triggered Flow
 
 <img src="/FlowRecordTypeUtils-1.png" alt="Configuration" height="350"/>
 
