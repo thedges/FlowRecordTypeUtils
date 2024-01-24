@@ -7,7 +7,7 @@ Simple Apex class to provide a Flow action to retrieve the RecordType developer 
 ## Installation 
 1. Install the package per this link
 
-<a href="https://githubsfdeploy.herokuapp.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=thedges&repo=FlowRecordTypeUtils&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
@@ -18,6 +18,7 @@ Simple Apex class to provide a Flow action to retrieve the RecordType developer 
 
 4. Configure the Action step to pass in a record id for input and setup an output variable (Text) for the response. Here is example screenshot
 
-![alt text](https://github.com/thedges/FlowRecordTypeUtils/blob/main/FlowRecordTypeUtils-1.png "Sample Image")
+![alt text](/FlowRecordTypeUtils-1.png "Sample Image")
+<img src="/images/youtube.png" alt="Youtube" height="500"/>
 
 5. That's it! You can now use that output variable for decision logic within the flow.
